@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Hi I Am sachita Patil
 Im from Kolhapur.
 Im recently working in Tekdi Technology
-
-=======
 Chnged by Ziyd
->>>>>>> db6581b376aa5a11e7ae1f181b580b380fda3e8f
